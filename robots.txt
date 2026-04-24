@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchen-remodel-contractor-fort-worth-tx.netlify.app/sitemap.xml
